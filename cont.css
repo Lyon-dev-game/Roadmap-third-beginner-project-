@@ -1,0 +1,16 @@
+.content p{
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content button{
+    margin-top: 100px;
+    border-radius: 8px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(154, 195, 246);
+    color: black;
+}
+.content{
+    justify-content: center;
+    margin-top: 10%;
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family: Arial;
+}
+.nav{
+	background-color:rgb(140, 188, 230);
+	color:rgb(12, 12, 12);
+    text-align:right;
+	padding:3px;
+	}
+.nav p{
+    text-align: left;
+}
+.nav a{
+    
+    text-decoration: none;
+    color: black;
+}
